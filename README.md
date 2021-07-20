@@ -32,4 +32,6 @@ A course on analyzing consumer choice data in R to inform design decisions in an
 
 A self-guided tutorial for developing a foundation in programming in R for data analysis, including data input/output, data wrangling, and data visualization using the Tidyverse.
 
+# Stats
+
 ![Metrics](https://github.com/jhelvy/jhelvy/raw/main/github-metrics.svg)
