@@ -3,7 +3,7 @@
 My name is **John Paul Helveston** and I am an Assistant Professor in EMSE @ GWU. On GitHub you'll usually see me contributing to R-related projects / packages or courses I develop / teach. I can speak English, Chinese, R (base + tidyverse) fluently as well as some moderate Python 😄
 
 ![Github stats](https://github-readme-stats.vercel.app/api?username=jhelvy&theme=vue-dark&show_icons=true)
-![Top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=jhelvy&hide=html,JavaScript,CSS&layout=compact&langs_count=10)
+![Top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=jhelvy&theme=vue-dark&hide=html,JavaScript,CSS&layout=compact&langs_count=10)
 
 ### R packages I have authored
 
