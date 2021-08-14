@@ -1,6 +1,6 @@
 ### Hello! 👋
 
-My name is **John Paul Helveston** and I am an Assistant Professor in [EMSE](https://www.emse.seas.gwu.edu/) @ [GWU](https://www.gwu.edu/). On GitHub you'll usually see me contributing to R-related projects / packages or courses I develop / teach. I can speak English, Chinese, R (base + tidyverse) fluently as well as some moderate Python. Find out more at my website: [jhelvy.com](https://jhelvy.com/) 😄
+My name is **John Paul Helveston** and I am an Assistant Professor in [EMSE](https://www.emse.seas.gwu.edu/) @ [GWU](https://www.gwu.edu/). On GitHub you'll usually see me contributing to research projects, R packages, and courses I develop / teach. I can speak English, Chinese, R (base + tidyverse) fluently as well as some moderate Python, CSS, and HTML. Find out more at my website: [jhelvy.com](https://jhelvy.com/) 😄
 
 ![Github stats](https://github-readme-stats.vercel.app/api?username=jhelvy&theme=vue-dark&show_icons=true)
 ![Top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=jhelvy&theme=vue-dark&hide=html,JavaScript,CSS&layout=compact&langs_count=10)
