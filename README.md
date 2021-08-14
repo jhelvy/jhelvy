@@ -11,7 +11,7 @@ Each of these repositories contain the data and code to reproduce analyses for r
 
 - [dcTravelSurvey](https://github.com/jhelvy/dcTravelSurvey): A conjoint survey about user trip travel preferences in the DC Metro Area conducted at George Washington University.
 - [pev-experience-2019](https://github.com/jhelvy/pev-experience-2019): Replication for our 2020 paper "Electric vehicle adoption: can short experiences lead to big change?,” _Environmental Research Letters_. 15(0940c3). DOI: [10.1088/1748-9326/aba715](https://doi.org/10.1088/1748-9326/aba715)
-- [tra2015](https://github.com/jhelvy/tra2015): Replication for our 2015 paper ["Will subsidies drive electric vehicle adoption? Measuring consumer preferences in the U.S. and China"](https://www.researchgate.net/publication/272297857_Will_subsidies_drive_electric_vehicle_adoption_Measuring_consumer_preferences_in_the_US_and_China). _Transportation Research Part A: Policy and Practice_, 73, 96–112.
+- [tra2015](https://github.com/jhelvy/tra2015): Replication for our 2015 paper "Will subsidies drive electric vehicle adoption? Measuring consumer preferences in the U.S. and China" _Transportation Research Part A: Policy and Practice_, 73, 96–112. DOI: [10.1016/j.tra.2015.01.002](https://doi.org/10.1016/j.tra.2015.01.002)
 
 ### R packages I have authored
 
