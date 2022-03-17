@@ -10,13 +10,14 @@ My name is **John Paul Helveston** and I am an Assistant Professor in [EMSE](htt
 Each of these repositories contain the data and code to reproduce analyses for research projects:
 
 - [dcTravelSurvey](https://github.com/jhelvy/dcTravelSurvey): A conjoint survey about user trip travel preferences in the DC Metro Area conducted at George Washington University.
+- [pev-incentives-2021](https://github.com/jhelvy/pev-incentives-2021): Replication for our 2022 paper "Comparing Consumer Preferences for Electric Vehicle Financial Incentives.” _Under Review_.
 - [pev-experience-2019](https://github.com/jhelvy/pev-experience-2019): Replication for our 2020 paper "Electric vehicle adoption: can short experiences lead to big change?,” _Environmental Research Letters_. 15(0940c3). DOI: [10.1088/1748-9326/aba715](https://doi.org/10.1088/1748-9326/aba715)
 - [tra2015](https://github.com/jhelvy/tra2015): Replication for our 2015 paper "Will subsidies drive electric vehicle adoption? Measuring consumer preferences in the U.S. and China" _Transportation Research Part A: Policy and Practice_, 73, 96–112. DOI: [10.1016/j.tra.2015.01.002](https://doi.org/10.1016/j.tra.2015.01.002)
 
 ### R packages I have authored
 
 - [logitr](https://jhelvy.github.io/logitr/): Estimation of multinomial (MNL) and mixed logit (MXL) models in R with “Preference” space or “Willingness-to-pay” (WTP) space [utility parameterizations](https://jhelvy.github.io/logitr/articles/utility_models.html).
-- [conjointTools](https://jhelvy.github.io/conjointTools/): An R package containing tools for designing conjoint survey experiments and conducting power analyses.
+- [cbcTools](https://jhelvy.github.io/cbcTools/): An R package with tools for designing choice based conjoint (cbc) survey experiments and conduction power analyses.
 - [xaringanBuilder](https://jhelvy.github.io/xaringanBuilder/): Functions for building xaringan slides to different outputs, including html, pdf, png, gif, pptx, and mp4.
 
 ### Courses I have developed & teach
