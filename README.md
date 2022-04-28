@@ -18,7 +18,17 @@ Each of these repositories contain the data and code to reproduce analyses for r
 
 - [logitr](https://jhelvy.github.io/logitr/): Estimation of multinomial (MNL) and mixed logit (MXL) models in R with “Preference” space or “Willingness-to-pay” (WTP) space [utility parameterizations](https://jhelvy.github.io/logitr/articles/utility_models.html).
 - [cbcTools](https://jhelvy.github.io/cbcTools/): An R package with tools for designing choice based conjoint (cbc) survey experiments and conduction power analyses.
-- [xaringanBuilder](https://jhelvy.github.io/xaringanBuilder/): Functions for building xaringan slides to different outputs, including html, pdf, png, gif, pptx, and mp4.
+- [renderthis](https://jhelvy.github.io/renderthis/): Package for rendering media (e.g., [`xaringan`](https://github.com/yihui/xaringan) slides) into multiple different formats. Co-authored with [Garrick Aden-Buie](https://github.com/gadenbuie).
+
+### Community
+
+- [The Distillery](https://distillery.rbind.io/): A distill blog and showcase about building distill websites and blogs.
+
+### Keyboards
+
+- [splitKbCompare](jhelvy.github.io/splitkbcompare/): An interactive tool for comparing layouts of different split mechanical keyboards.
+- [Wireless Corne](https://github.com/jhelvy/wireless-corne/): Build log and photo gallery for my Wireless Corne keyboard.
+- [Iris Rev 2](https://github.com/jhelvy/iris-rev2/): Build log and photo gallery for my Iris Rev 2 keyboard.
 
 ### Courses I have developed & teach
 
