@@ -17,7 +17,7 @@ Each of these repositories contain the data and code to reproduce analyses for r
 
 ### R packages I have authored
 
-- [logitr](https://jhelvy.github.io/logitr/): logitr: Fast Estimation of Multinomial and Mixed Logit Models with Preference Space and Willingness to Pay Space Utility Parameterizations [utility parameterizations](https://jhelvy.github.io/logitr/articles/utility_models.html).
+- [logitr](https://jhelvy.github.io/logitr/): logitr: Fast Estimation of Multinomial and Mixed Logit Models with Preference Space and Willingness to Pay Space Utility Parameterizations utility parameterizations. Accomanying JSS article here: DOI: [10.18637/jss.v105.i10](https://doi.org/10.18637/jss.v105.i10)
 - [cbcTools](https://jhelvy.github.io/cbcTools/): An R package with tools for designing choice based conjoint (cbc) survey experiments and conduction power analyses.
 - [renderthis](https://jhelvy.github.io/renderthis/): Package for rendering media (e.g., [`xaringan`](https://github.com/yihui/xaringan) slides) into multiple different formats. Co-authored with [Garrick Aden-Buie](https://github.com/gadenbuie).
 
@@ -31,6 +31,7 @@ Each of these repositories contain the data and code to reproduce analyses for r
 ### Community
 
 - [The Distillery](https://distillery.rbind.io/): A distill blog and showcase about building distill websites and blogs.
+- [GW Coders](https://gwcoders.github.io/studyGroup/): A community organization co-founded by myself and [Ryan Watkins](https://ryanrwatkins.com/) that brings together students and faculty to apply computational and data analytics skills in research. 
 
 ### Keyboards
 
