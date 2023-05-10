@@ -2,10 +2,11 @@
 
 My name is **John Paul Helveston** and I am an Assistant Professor in [EMSE](https://www.emse.seas.gwu.edu/) @ [GWU](https://www.gwu.edu/). On GitHub you'll usually see me contributing to research projects, R packages, courses I develop / teach, or other fun side projects. I can speak English, Chinese, R (base + tidyverse) fluently as well as some moderate Python, CSS, and HTML. Find out more at my website: [jhelvy.com](https://jhelvy.com/) 😄
 
-![Github stats](https://github-readme-stats.vercel.app/api?username=jhelvy&theme=vue-dark&show_icons=true)
-![Top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=jhelvy&theme=vue-dark&hide=html,JavaScript,CSS&layout=compact&langs_count=10)
+### Activity Summary
 
-### Research projects 
+![Metrics](https://github.com/jhelvy/jhelvy/raw/main/github-metrics.svg)
+
+### Research Projects
 
 Each of these repositories contain the data and code to reproduce analyses for research projects:
 
@@ -15,13 +16,13 @@ Each of these repositories contain the data and code to reproduce analyses for r
 - [pev-experience-2019](https://github.com/jhelvy/pev-experience-2019): Replication for our 2020 paper "Electric vehicle adoption: can short experiences lead to big change?,” _Environmental Research Letters_. 15(0940c3). DOI: [10.1088/1748-9326/aba715](https://doi.org/10.1088/1748-9326/aba715)
 - [tra2015](https://github.com/jhelvy/tra2015): Replication for our 2015 paper "Will subsidies drive electric vehicle adoption? Measuring consumer preferences in the U.S. and China" _Transportation Research Part A: Policy and Practice_, 73, 96–112. DOI: [10.1016/j.tra.2015.01.002](https://doi.org/10.1016/j.tra.2015.01.002)
 
-### R packages I have authored
+### R Packages
 
 - [logitr](https://jhelvy.github.io/logitr/): logitr: Fast Estimation of Multinomial and Mixed Logit Models with Preference Space and Willingness to Pay Space Utility Parameterizations utility parameterizations. Accomanying JSS article here: DOI: [10.18637/jss.v105.i10](https://doi.org/10.18637/jss.v105.i10)
 - [cbcTools](https://jhelvy.github.io/cbcTools/): An R package with tools for designing choice based conjoint (cbc) survey experiments and conduction power analyses.
 - [renderthis](https://jhelvy.github.io/renderthis/): Package for rendering media (e.g., [`xaringan`](https://github.com/yihui/xaringan) slides) into multiple different formats. Co-authored with [Garrick Aden-Buie](https://github.com/gadenbuie).
 
-### Courses I have developed & teach
+### Courses
 
 - [EMSE 4571: Intro to Programming for Analytics](https://p4a.seas.gwu.edu/): A course on the fundamentals of programming and computational thinking in R.
 - [EMSE 4572: Exploratory Data Analysis](https://eda.seas.gwu.edu/): A course on the foundations in exploring and visualizing data in R.
