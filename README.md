@@ -5,7 +5,8 @@ My name is **John Paul Helveston** and I am an Assistant Professor in [EMSE](htt
 
 ### Activity Summary
 
-![Metrics](https://github.com/jhelvy/jhelvy/raw/main/github-metrics.svg)
+![Github stats](https://github-readme-stats-rouge-zeta-15.vercel.app/api?username=jhelvy&theme=vue-dark&show_icons=true)
+![Top languages](https://github-readme-stats-rouge-zeta-15.vercel.app/api/top-langs/?username=jhelvy&theme=vue-dark&hide=html,JavaScript,CSS&layout=compact&langs_count=10)
 
 ### Research Projects
 
