@@ -5,11 +5,6 @@ My name is **John Paul Helveston** and I am an Assistant Professor in [EMSE](htt
 
 ![Twitter Follow](https://img.shields.io/twitter/follow/JohnHelveston?color=1DA1F2&logo=Twitter&style=for-the-badge)
 
-### Activity Summary
-
-![Github stats](https://github-readme-stats-rouge-zeta-15.vercel.app/api?username=jhelvy&theme=vue-dark&show_icons=true)
-![Top languages](https://github-readme-stats-rouge-zeta-15.vercel.app/api/top-langs/?username=jhelvy&theme=vue-dark&hide=html,JavaScript,CSS&layout=compact&langs_count=10)
-
 ### Research Projects
 
 Each of these repositories contain the data and code to reproduce analyses for research projects:
