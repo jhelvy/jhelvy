@@ -1,14 +1,23 @@
 
 ### Hello! 👋
 
-My name is **John Paul Helveston** and I am an Assistant Professor in [EMSE](https://emse.engineering.gwu.edu/) @ [GWU](https://www.gwu.edu/). On GitHub you'll usually see me contributing to research projects, R packages, courses I develop / teach, or other fun side projects. I speak English, Chinese, R (base + tidyverse), and Python fluently as well as some moderate CSS and HTML. Find out more at my website: [jhelvy.com](https://jhelvy.com/) 😄
+My name is **John Paul Helveston** and I am an Assistant Professor in [EMSE](https://emse.engineering.gwu.edu/) @ [GWU](https://www.gwu.edu/). On GitHub you'll usually see me contributing to research projects, R packages, courses I develop / teach, or other fun side projects. I speak English, Chinese, R (base + tidyverse), and Python fluently as well as some moderate CSS and HTML. 😄
 
-![Twitter Follow](https://img.shields.io/twitter/follow/JohnHelveston?color=1DA1F2&logo=Twitter&style=for-the-badge)
+### Links
+
+- [Website](https://www.jhelvy.com/)
+- [Twitter](https://twitter.com/JohnHelveston)
+- [Mastodon](https://fediscience.org/@jhelvy)
+- [Linkedin](https://www.linkedin.com/in/jhelvy)
+- [Research Gate](https://www.researchgate.net/profile/John_Helveston)
+- [Google Scholar](https://scholar.google.com/citations?user=DY2D56IAAAAJ)
+- [orcID](https://orcid.org/0000-0002-2657-9191)
 
 ### Research Projects
 
 Each of these repositories contain the data and code to reproduce analyses for research projects:
 
+- [vmt-2023](https://github.com/jhelvy/vmt-2023): Replication code for our 2023 paper "Quantifying electric vehicle mileage in the United States." _Joule_. DOI: [10.1016/j.joule.2023.09.015](https://doi.org/10.1016/j.joule.2023.09.015)
 - [solar-learning-2021](https://github.com/jhelvy/solar-learning-2021): Replication for our 2022 paper "Quantifying the cost savings of global solar photovoltaic supply chains." _Nature_. DOI: [10.1038/s41586-022-05316-6](https://doi.org/10.1038/s41586-022-05316-6)
 - [pev-incentives-2021](https://github.com/jhelvy/pev-incentives-2021): Replication for our 2022 paper "Not all subsidies are equal: Measuring preferences for electric vehicle financial incentives.” _Environmental Research Letters_. DOI: [10.1088/1748-9326/ac7df3](https://doi.org/10.1088/1748-9326/ac7df3)
 - [dcTravelSurvey](https://github.com/jhelvy/dcTravelSurvey): A conjoint survey about user trip travel preferences in the DC Metro Area conducted at George Washington University.
