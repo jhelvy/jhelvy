@@ -5,7 +5,7 @@ My name is **John Paul Helveston** and I am an Assistant Professor in [EMSE](htt
 
 ### Links
 
-- [Website](https://www.jhelvy.com/)
+- [Personal Website](https://www.jhelvy.com/)
 - [Twitter](https://twitter.com/JohnHelveston)
 - [Mastodon](https://fediscience.org/@jhelvy)
 - [Linkedin](https://www.linkedin.com/in/jhelvy)
@@ -29,8 +29,9 @@ Each of these repositories contain the data and code to reproduce analyses for r
 - [logitr](https://jhelvy.github.io/logitr/): logitr: Fast Estimation of Multinomial and Mixed Logit Models with Preference Space and Willingness to Pay Space Utility Parameterizations utility parameterizations. Accomanying JSS article here: DOI: [10.18637/jss.v105.i10](https://doi.org/10.18637/jss.v105.i10)
 - [cbcTools](https://jhelvy.github.io/cbcTools/): An R package with tools for designing choice based conjoint (cbc) survey experiments and conduction power analyses.
 - [renderthis](https://jhelvy.github.io/renderthis/): Package for rendering media (e.g., [`xaringan`](https://github.com/yihui/xaringan) slides) into multiple different formats. Co-authored with [Garrick Aden-Buie](https://github.com/gadenbuie).
+- [surveydown](https://github.com/jhelvy/surveydown): An attempt to build a markdown-based survey platform using Quarto & Shiny. This is a work in progress and is not yet formatting into a formal package.
 
-### Courses
+### Open Source Courses
 
 - [EMSE 4571: Intro to Programming for Analytics](https://p4a.seas.gwu.edu/): A course on the fundamentals of programming and computational thinking in R.
 - [EMSE 4572: Exploratory Data Analysis](https://eda.seas.gwu.edu/): A course on the foundations in exploring and visualizing data in R.
@@ -39,8 +40,8 @@ Each of these repositories contain the data and code to reproduce analyses for r
 
 ### Community
 
-- [The Distillery](https://distillery.rbind.io/): A distill blog and showcase about building distill websites and blogs.
 - [GW Coders](https://gwcoders.github.io/studyGroup/): A community organization co-founded by myself and [Ryan Watkins](https://ryanrwatkins.com/) that brings together students and faculty to apply computational and data analytics skills in research. 
+- [The Distillery](https://distillery.rbind.io/): A distill blog and showcase about building distill websites and blogs.
 
 ### Keyboards
 
