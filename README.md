@@ -17,6 +17,7 @@ My name is **John Paul Helveston** and I am an Assistant Professor in [EMSE](htt
 
 Each of these repositories contain the data and code to reproduce analyses for research projects:
 
+- [pev-resale-2024](https://github.com/jhelvy/pev-resale-2024): Replication code for our 2024 paper “Battery-Powered Bargains? Assessing Electric Vehicle Resale Value in the United States” _Environmental Research Letters_. DOI: [10.1088/1748-9326/ad3fce](https://doi.org/10.1088/1748-9326/ad3fce)
 - [vmt-2023](https://github.com/jhelvy/vmt-2023): Replication code for our 2023 paper "Quantifying electric vehicle mileage in the United States." _Joule_. DOI: [10.1016/j.joule.2023.09.015](https://doi.org/10.1016/j.joule.2023.09.015)
 - [solar-learning-2021](https://github.com/jhelvy/solar-learning-2021): Replication for our 2022 paper "Quantifying the cost savings of global solar photovoltaic supply chains." _Nature_. DOI: [10.1038/s41586-022-05316-6](https://doi.org/10.1038/s41586-022-05316-6)
 - [pev-incentives-2021](https://github.com/jhelvy/pev-incentives-2021): Replication for our 2022 paper "Not all subsidies are equal: Measuring preferences for electric vehicle financial incentives.” _Environmental Research Letters_. DOI: [10.1088/1748-9326/ac7df3](https://doi.org/10.1088/1748-9326/ac7df3)
