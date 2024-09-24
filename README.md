@@ -7,6 +7,7 @@ My name is **John Paul Helveston** and I am an Assistant Professor in [EMSE](htt
 
 - [Personal Website](https://www.jhelvy.com/)
 - [Twitter](https://twitter.com/JohnHelveston)
+- [Blue Sky](https://bsky.app/profile/jhelvy.bsky.social)
 - [Mastodon](https://fediscience.org/@jhelvy)
 - [Linkedin](https://www.linkedin.com/in/jhelvy)
 - [Research Gate](https://www.researchgate.net/profile/John_Helveston)
@@ -30,7 +31,7 @@ Each of these repositories contain the data and code to reproduce analyses for r
 - [logitr](https://jhelvy.github.io/logitr/): logitr: Fast Estimation of Multinomial and Mixed Logit Models with Preference Space and Willingness to Pay Space Utility Parameterizations utility parameterizations. Accomanying JSS article here: DOI: [10.18637/jss.v105.i10](https://doi.org/10.18637/jss.v105.i10)
 - [cbcTools](https://jhelvy.github.io/cbcTools/): An R package with tools for designing choice based conjoint (cbc) survey experiments and conduction power analyses.
 - [renderthis](https://jhelvy.github.io/renderthis/): Package for rendering media (e.g., [`xaringan`](https://github.com/yihui/xaringan) slides) into multiple different formats. Co-authored with [Garrick Aden-Buie](https://github.com/gadenbuie).
-- [surveydown](https://github.com/jhelvy/surveydown): An attempt to build a markdown-based survey platform using Quarto & Shiny. This is a work in progress and is not yet formatting into a formal package.
+- [surveydown](https://github.com/surveydown-dev/surveydown/): A flexible, open-source platform for making surveys with R, Quarto, Shiny, and Supabase.
 
 ### Open Source Courses
 
