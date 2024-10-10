@@ -18,6 +18,7 @@ My name is **John Paul Helveston** and I am an Assistant Professor in [EMSE](htt
 
 Each of these repositories contain the data and code to reproduce analyses for research projects:
 
+- [av_labor_cost_2024](https://github.com/lkaplan25/av_labor_cost_2024): Replication code for our 2024 paper "Modeling the Operational and Labor Costs of Autonomous Robotaxi Services" _Transport Policy_. DOI: [10.1016/j.tranpol.2024.10.010](https://doi.org/10.1016/j.tranpol.2024.10.010)
 - [pev-resale-2024](https://github.com/jhelvy/pev-resale-2024): Replication code for our 2024 paper “Battery-Powered Bargains? Assessing Electric Vehicle Resale Value in the United States” _Environmental Research Letters_. DOI: [10.1088/1748-9326/ad3fce](https://doi.org/10.1088/1748-9326/ad3fce)
 - [vmt-2023](https://github.com/jhelvy/vmt-2023): Replication code for our 2023 paper "Quantifying electric vehicle mileage in the United States." _Joule_. DOI: [10.1016/j.joule.2023.09.015](https://doi.org/10.1016/j.joule.2023.09.015)
 - [solar-learning-2021](https://github.com/jhelvy/solar-learning-2021): Replication for our 2022 paper "Quantifying the cost savings of global solar photovoltaic supply chains." _Nature_. DOI: [10.1038/s41586-022-05316-6](https://doi.org/10.1038/s41586-022-05316-6)
