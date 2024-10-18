@@ -16,20 +16,7 @@ My name is **John Paul Helveston** and I am an Assistant Professor in [EMSE](htt
 
 ### :fire: GitHub Stats
 
-<div class="grid">
-<div class="g-col-6">
-
 [![My Awesome Stats](https://awesome-github-stats.azurewebsites.net/user-stats/jhelvy?cardType=github&theme=github-dark&preferLogin=false)](https://git.io/awesome-stats-card)
-
-</div>
-<div class="g-col-6">
-
-<a href="https://git.io/streak-stats">
-  <img height=200 align="center" src="https://streak-stats.demolab.com?user=jhelvy&theme=tokyonight&hide_border=true&border_radius=6.5&date_format=M%20j%5B%2C%20Y%5D&mode=weekly&card_width=320" />
-</a>
-
-</div>
-</div>
 
 ### Research Projects
 
