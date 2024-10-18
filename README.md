@@ -14,6 +14,23 @@ My name is **John Paul Helveston** and I am an Assistant Professor in [EMSE](htt
 - [Google Scholar](https://scholar.google.com/citations?user=DY2D56IAAAAJ)
 - [orcID](https://orcid.org/0000-0002-2657-9191)
 
+### :fire: GitHub Stats
+
+<div class="grid">
+<div class="g-col-6">
+
+[![My Awesome Stats](https://awesome-github-stats.azurewebsites.net/user-stats/jhelvy?cardType=github&theme=github-dark&preferLogin=false)](https://git.io/awesome-stats-card)
+
+</div>
+<div class="g-col-6">
+
+<a href="https://git.io/streak-stats">
+  <img height=200 align="center" src="https://streak-stats.demolab.com?user=jhelvy&theme=tokyonight&hide_border=true&border_radius=6.5&date_format=M%20j%5B%2C%20Y%5D&mode=weekly&card_width=320" />
+</a>
+
+</div>
+</div>
+
 ### Research Projects
 
 Each of these repositories contain the data and code to reproduce analyses for research projects:
@@ -51,11 +68,3 @@ Each of these repositories contain the data and code to reproduce analyses for r
 - [splitKbCompare](jhelvy.github.io/splitkbcompare/): An interactive tool for comparing layouts of different split mechanical keyboards.
 - [Wireless Corne](https://github.com/jhelvy/wireless-corne/): Build log and photo gallery for my Wireless Corne keyboard.
 - [Iris Rev 2](https://github.com/jhelvy/iris-rev2/): Build log and photo gallery for my Iris Rev 2 keyboard.
-
-### :fire: GitHub Stats
-
-[![My Awesome Stats](https://awesome-github-stats.azurewebsites.net/user-stats/jhelvy?cardType=github&theme=github-dark&preferLogin=false)](https://git.io/awesome-stats-card)
-
-<a href="https://git.io/streak-stats">
-  <img height=200 align="center" src="https://streak-stats.demolab.com?user=jhelvy&theme=tokyonight&hide_border=true&border_radius=6.5&date_format=M%20j%5B%2C%20Y%5D&mode=weekly&card_width=320" />
-</a>
