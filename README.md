@@ -6,7 +6,6 @@ My name is **John Paul Helveston** and I am an Assistant Professor in [EMSE](htt
 ### Links
 
 - [Personal Website](https://www.jhelvy.com/)
-- [Twitter](https://twitter.com/JohnHelveston)
 - [Blue Sky](https://bsky.app/profile/jhelvy.bsky.social)
 - [Mastodon](https://fediscience.org/@jhelvy)
 - [Linkedin](https://www.linkedin.com/in/jhelvy)
