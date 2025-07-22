@@ -1,7 +1,9 @@
 
 ### Hello! 👋
 
-My name is **John Paul Helveston** and I am an Assistant Professor in [EMSE](https://emse.engineering.gwu.edu/) @ [GWU](https://www.gwu.edu/). On GitHub you'll usually see me contributing to research projects, R packages, courses I develop / teach, or other fun side projects. I speak English, Chinese, R (base + tidyverse), and Python fluently as well as some moderate CSS and HTML. 😄
+My name is **John Paul Helveston** and I am an Associate Professor in [EMSE](https://emse.engineering.gwu.edu/) @ [GWU](https://www.gwu.edu/).
+
+On GitHub you'll usually see me contributing to research projects, R packages, courses I develop / teach, or other fun side projects. I speak English, Chinese, R (base + tidyverse), and Python fluently as well as some moderate CSS and HTML. 😄
 
 ### Links
 
