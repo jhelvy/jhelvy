@@ -5,6 +5,10 @@ My name is **John Paul Helveston** and I am an Associate Professor in [EMSE](htt
 
 On GitHub you'll usually see me contributing to research projects, R packages, courses I develop / teach, or other fun side projects. I speak English, Chinese, R (base + tidyverse), and Python fluently as well as some moderate CSS and HTML. 😄
 
+### Support
+
+If you've found anything I've contributed to helpful and want to support me, feel free to [make a donation](https://ko-fi.com/jhelvy).  
+
 ### Links
 
 - [Personal Website](https://www.jhelvy.com/)
