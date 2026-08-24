@@ -37,11 +37,12 @@ Each of these repositories contain the data and code to reproduce analyses for r
 - [pev-experience-2019](https://github.com/jhelvy/pev-experience-2019): Replication for our 2020 paper "Electric vehicle adoption: can short experiences lead to big change?,” _Environmental Research Letters_. 15(0940c3). DOI: [10.1088/1748-9326/aba715](https://doi.org/10.1088/1748-9326/aba715)
 - [tra2015](https://github.com/jhelvy/tra2015): Replication for our 2015 paper "Will subsidies drive electric vehicle adoption? Measuring consumer preferences in the U.S. and China" _Transportation Research Part A: Policy and Practice_, 73, 96–112. DOI: [10.1016/j.tra.2015.01.002](https://doi.org/10.1016/j.tra.2015.01.002)
 
-### R Packages
+### R Packages & other software
 
 - [surveydown](https://github.com/surveydown-dev/surveydown/): A flexible, open-source platform for making markdown-based surveys with R, [Quarto](https://quarto.org/), [Shiny](https://shiny.posit.co/), and [PostgreSQL](https://www.postgresql.org/).
 - [logitr](https://jhelvy.github.io/logitr/): logitr: Fast Estimation of Multinomial and Mixed Logit Models with Preference Space and Willingness to Pay Space Utility Parameterizations utility parameterizations. Accomanying JSS article here: DOI: [10.18637/jss.v105.i10](https://doi.org/10.18637/jss.v105.i10)
 - [cbcTools](https://jhelvy.github.io/cbcTools/): An R package with tools for designing choice based conjoint (cbc) survey experiments and conduction power analyses.
+- [earmark](https://jhelvy.github.io/earmark/): A Python command line tool that turns documents (PDF, DOCX, EPUB, ...) and article URLs into a private podcast feed, narrated locally with [Kokoro-82M](https://huggingface.co/hexgrad/Kokoro-82M). No API keys, no per-minute cost.
 - [renderthis](https://jhelvy.github.io/renderthis/): Package for rendering media (e.g., [`xaringan`](https://github.com/yihui/xaringan) slides) into multiple different formats. Co-authored with [Garrick Aden-Buie](https://github.com/gadenbuie).
 
 ### Open Source Courses
