@@ -12,8 +12,8 @@ If you've found anything I've contributed to helpful and want to support me, fee
 ### Links
 
 - [Personal Website](https://www.jhelvy.com/)
-- [Blue Sky](https://bsky.app/profile/jhelvy.bsky.social)
 - [Linkedin](https://www.linkedin.com/in/jhelvy)
+- [Blue Sky](https://bsky.app/profile/jhelvy.bsky.social)
 - [Research Gate](https://www.researchgate.net/profile/John_Helveston)
 - [Google Scholar](https://scholar.google.com/citations?user=DY2D56IAAAAJ)
 - [orcID](https://orcid.org/0000-0002-2657-9191)
@@ -37,13 +37,31 @@ Each of these repositories contain the data and code to reproduce analyses for r
 - [pev-experience-2019](https://github.com/jhelvy/pev-experience-2019): Replication for our 2020 paper "Electric vehicle adoption: can short experiences lead to big change?,” _Environmental Research Letters_. 15(0940c3). DOI: [10.1088/1748-9326/aba715](https://doi.org/10.1088/1748-9326/aba715)
 - [tra2015](https://github.com/jhelvy/tra2015): Replication for our 2015 paper "Will subsidies drive electric vehicle adoption? Measuring consumer preferences in the U.S. and China" _Transportation Research Part A: Policy and Practice_, 73, 96–112. DOI: [10.1016/j.tra.2015.01.002](https://doi.org/10.1016/j.tra.2015.01.002)
 
-### R Packages & other software
+### R Packages & other misc software
 
 - [surveydown](https://github.com/surveydown-dev/surveydown/): A flexible, open-source platform for making markdown-based surveys with R, [Quarto](https://quarto.org/), [Shiny](https://shiny.posit.co/), and [PostgreSQL](https://www.postgresql.org/).
 - [logitr](https://jhelvy.github.io/logitr/): logitr: Fast Estimation of Multinomial and Mixed Logit Models with Preference Space and Willingness to Pay Space Utility Parameterizations utility parameterizations. Accomanying JSS article here: DOI: [10.18637/jss.v105.i10](https://doi.org/10.18637/jss.v105.i10)
 - [cbcTools](https://jhelvy.github.io/cbcTools/): An R package with tools for designing choice based conjoint (cbc) survey experiments and conduction power analyses.
 - [earmark](https://jhelvy.github.io/earmark/): A Python command line tool that turns documents (PDF, DOCX, EPUB, ...) and article URLs into a private podcast feed, narrated locally with [Kokoro-82M](https://huggingface.co/hexgrad/Kokoro-82M). No API keys, no per-minute cost.
 - [renderthis](https://jhelvy.github.io/renderthis/): Package for rendering media (e.g., [`xaringan`](https://github.com/yihui/xaringan) slides) into multiple different formats. Co-authored with [Garrick Aden-Buie](https://github.com/gadenbuie).
+- [assess](https://github.com/jhelvy/assess): A highly opinionated package I use for grading assignments for the courses I teach at George Washington University. It is not necessarily designed for others to use (there isn’t much careful documentation), but you’re welcome to use it if it’s helpful for you!
+
+### Data Packages
+
+- [vehicletrends](https://pkg.vehicletrends.us/): An R data package containing tidy formatted summary data on vehicle trends in the United States. The primary data source is vehicle listings from [marketcheck.com](https://www.marketcheck.com/), which have been processed into summary statistics including depreciation curves, mileage accumulation, market concentration, and share of listings breakdowns. For a live dashboard of the data, visit [vehicletrends.us](https://vehicletrends.us/).
+- [oica](https://jhelvy.github.io/oica/): An R data package containing tidy formatted data on vehicle production and sales from the [Organisation Internationale des Constructeurs d’Automobiles (OICA)](https://oica.net/) (English Name: “International Organization of Motor Vehicle Manufacturers”). The data are also merged with standard country / area codes come from the [United Nations Statistics Division](https://unstats.un.org/unsd/methodology/m49/overview/). 
+
+### Quarto
+
+- [Quarto lexis template](https://jhelvy.github.io/quarto-lexis/): My highly opinionated template for Quarto revealjs slides.
+ 
+### Data Viz / Dashboards
+
+- [vehicletrends.us](https://vehicletrends.us/): This site is an ongoing project designed to make publicly available information about trends in the U.S. automotive market. The site pulls together a variety of data sources to reveal trends. See the [about page](https://vehicletrends.us/about) for more details on the data sources and calculations.
+- [charts](https://github.com/jhelvy/charts): A bunch of various charts.
+- [quarto-dashboard](https://jhelvy.github.io/quarto-dashboard/): A demo site of how I use the Quarto website framework to build interactive, serverless websites.
+- [Data Centers vs. States](https://jhelvy.github.io/datacenter-states/): Dashboard comparing power from select data centers to that of entire U.S. states.
+- [POTUS Econ Scorecard](https://jhelvy.github.io/potus-econ-scorecard/): An interactive web app that compares economic performance indicators across different presidential administrations.
 
 ### Open Source Courses
 
@@ -62,3 +80,7 @@ Each of these repositories contain the data and code to reproduce analyses for r
 - [splitKbCompare](jhelvy.github.io/splitkbcompare/): An interactive tool for comparing layouts of different split mechanical keyboards.
 - [Wireless Corne](https://github.com/jhelvy/wireless-corne/): Build log and photo gallery for my Wireless Corne keyboard.
 - [Iris Rev 2](https://github.com/jhelvy/iris-rev2/): Build log and photo gallery for my Iris Rev 2 keyboard.
+
+### Other
+
+- [magaScreener](https://jhelvy.github.io/magaScreener/): This tool allows you to analyze documents for MAGA-targeted keywords or an uploaded list of keywords. It is useful to help identify words that might get screened by an entity (e.g., the federal government) so you can modify your language accordingly. Just upload a document, and the app will count occurrences of the keywords. Everything runs in the browser.
